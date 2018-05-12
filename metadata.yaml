@@ -1,0 +1,28 @@
+_repo: Radiant-MotherhoodA-Book-for-Those-Who-are-Creating-the-Future_45711
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45711-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stopes, Marie Carmichael
+    alias: Stopes, Marie Charlotte Carmichael
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '42511'
+    url: http://www.gutenberg.org/2009/agents/42511
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Stopes
+description: ''
+gutenberg_issued: '2014-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Mothers'
+title: 'Radiant Motherhood: A Book for Those Who are Creating the Future'
+url: http://www.gutenberg.org/ebooks/45711
